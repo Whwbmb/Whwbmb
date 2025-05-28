@@ -22,7 +22,11 @@
 
 
 
-<img src="https://github.com/Whwbmb/Whwbmb/blob/main/github-metrics.svg" align="right" width: 45% />
+<!-- <img src="https://github.com/Whwbmb/Whwbmb/blob/main/github-metrics.svg" align="right" width: 45% /> -->
+
+<table align='right'>
+<tr><td><img src="https://github.com/Whwbmb/Whwbmb/blob/main/github-metrics.svg" width="45%" align="right" /></td></tr>
+</table>
 
 
 <img src="https://raw.githubusercontent.com/Whwbmb/Whwbmb/main/assets/kyubey.gif" height="40" />
