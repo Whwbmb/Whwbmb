@@ -17,10 +17,10 @@
   <div>
     <div markdown="1"  align="left" style="display: inline-block; vertical-align: top; width: 45%;">
 
-    - 网络空间安全专业(Major in CyberSecurity) 
-    - 本科在读 
-    - 刚入门的CTFer / Novice CTFer
-    - ACG爱好者 / ACG fan
+  - 网络空间安全专业(Major in CyberSecurity) 
+  - 本科在读 
+  - 刚入门的CTFer / Novice CTFer
+  - ACG爱好者 / ACG fan
 
   </div>
 
