@@ -14,14 +14,9 @@
     <td width="50%" valign="top">
       <div markdown="1">
 
-## 关于我 / About Me
-
 - 网络空间安全专业（Major in Cybersecurity）本科在读  
 - 刚入门的 CTFer（Novice CTFer）  
 - ACG 爱好者（ACG fan）  
-
-
-
       </div>
     </td>
 
@@ -31,12 +26,12 @@
     </td>
   </tr>
 </table>
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Whwbmb/Whwbmb/main/assets/kyubey.gif" height="40" />
 
 [![](https://img.shields.io/badge/bilibili-ff66ab)](https://space.bilibili.com/246548892)  
 [![](https://img.shields.io/badge/nssctf-6364ff)](https://www.nssctf.cn/user/23773)
-
+</div>
 <!-- [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
 [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/) -->
 
