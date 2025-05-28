@@ -14,15 +14,21 @@
 
 
 ## 关于我 / about me
- 
+<div  align="center">
+
+  <div markdown="1" width="45%" align="left">
+
   - 网络空间安全专业(Major in CyberSecurity) 
   - 本科在读 
   - 刚入门的CTFer / Novice CTFer
   - ACG爱好者 / ACG fan
+  
+  </div>
 
 
-<div  align="center">
-<img src="https://github.com/Whwbmb/Whwbmb/blob/main/github-metrics.svg" align="right" width: 45% />
+
+<img src="https://github.com/Whwbmb/Whwbmb/blob/main/github-metrics.svg" align="right" width: 50% />
+
 </div>
 
 
