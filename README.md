@@ -15,8 +15,8 @@
       <div markdown="1">
 
 - 网络空间安全专业（Major in Cybersecurity）本科在读  
-- 刚入门的 CTFer（Novice CTFer）  
-- ACG 爱好者（ACG fan）  
+- 刚入门的 CTFer / Novice CTFer   
+- ACG 爱好者 / ACG fan  
       </div>
     </td>
 
@@ -28,6 +28,7 @@
 </table>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Whwbmb/Whwbmb/main/assets/kyubey.gif" height="40" />
+<br><br><br>
 
 [![](https://img.shields.io/badge/bilibili-ff66ab)](https://space.bilibili.com/246548892)  
 [![](https://img.shields.io/badge/nssctf-6364ff)](https://www.nssctf.cn/user/23773)
