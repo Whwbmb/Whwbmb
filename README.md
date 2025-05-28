@@ -19,7 +19,7 @@
 
 </div>
 
-<div markdown="1" width="50%" align="right">
+<div width="50%" align="right">
 <img src="https://github.com/Whwbmb/Whwbmb/blob/main/github-metrics.svg" />
 
 </div>
