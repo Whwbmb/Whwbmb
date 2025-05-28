@@ -13,7 +13,8 @@
 
   ## 关于我 / about me
 
-  - 网络空间安全专业(Major in CyberSecurity) 本科在读 
+  - 网络空间安全专业(Major in CyberSecurity) 
+  - 本科在读 
   - 刚入门的CTFer / Novice CTFer
   - ACG爱好者 / ACG fan
 
