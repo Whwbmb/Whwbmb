@@ -26,12 +26,13 @@
     </td>
   </tr>
 </table>
+
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/Whwbmb/Whwbmb/main/assets/kyubey.gif" height="40" />
-<br><br><br>
+<br>
 
-[![](https://img.shields.io/badge/bilibili-ff66ab)](https://space.bilibili.com/246548892)  
-[![](https://img.shields.io/badge/nssctf-6364ff)](https://www.nssctf.cn/user/23773)
+[![](https://img.shields.io/badge/bilibili-ff66ab)](https://space.bilibili.com/246548892)  [![](https://img.shields.io/badge/nssctf-6364ff)](https://www.nssctf.cn/user/23773)
 </div>
 <!-- [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
 [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/) -->
