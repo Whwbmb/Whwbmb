@@ -5,7 +5,7 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there!;Welcome+to+my+corner+of+GitHub." width="100%" />
 <div>
@@ -29,6 +29,35 @@
 
 
   [![](https://img.shields.io/badge/bilibili-ff66ab)](https://space.bilibili.com/246548892?spm_id_from=333.1007.0.0)
+  [![](https://img.shields.io/badge/nssctf-6364ff)](https://www.nssctf.cn/user/23773)
+
+</div> -->
+<div align="center">
+
+  <!-- 左侧：自我介绍 -->
+  <div markdown="1"
+       align="left"
+       style="display:inline-block; vertical-align:top; width:45%; max-width:300px; margin-bottom:1em;">
+
+  ## 关于我 / About Me
+
+  - 网络空间安全专业（Major in Cybersecurity）本科在读  
+  - 刚入门的 CTFer（Novice CTFer）  
+  - ACG 爱好者（ACG fan）  
+
+  </div>
+
+  <!-- 右侧：GitHub 指标 -->
+  <div style="display:inline-block; vertical-align:top; width:50%; text-align:right; margin-bottom:1em;">
+    <img src="https://github.com/Whwbmb/Whwbmb/blob/main/github-metrics.svg" width="100%" />
+  </div>
+
+  <br><br>
+
+  <!-- 底部动图和徽章 -->
+  <img src="https://raw.githubusercontent.com/Whwbmb/Whwbmb/main/assets/kyubey.gif" height="40" />
+  <br><br>
+  [![](https://img.shields.io/badge/bilibili-ff66ab)](https://space.bilibili.com/246548892)
   [![](https://img.shields.io/badge/nssctf-6364ff)](https://www.nssctf.cn/user/23773)
 
 </div>
