@@ -22,11 +22,7 @@
   - 本科在读 
   - 刚入门的CTFer / Novice CTFer
   - ACG爱好者 / ACG fan
-  
   </div>
-
-
-
 <img src="https://github.com/Whwbmb/Whwbmb/blob/main/github-metrics.svg" align="right" width: 50% />
 
 </div>
