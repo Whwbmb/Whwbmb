@@ -1,14 +1,21 @@
+<!-- <table align='right'>
+<tr><td><img src="https://github.com/Whwbmb/Whwbmb/blob/main/github-metrics.svg" width="45%" align="right" /></td></tr>
+</table> -->
+
+
+
+
 <div align="center">
 <img src="https://github.com/Whwbmb/Whwbmb/blob/main/github-metrics.svg" width="45%" align="right" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there!;Welcome+to+my+corner+of+GitHub." width="50%" />
 
-<br><br>
-    课程相关项目实验:
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<div markdown="1" align="left">
+## 关于我 / about me
 
-<img src="https://github.com/Whwbmb/assets/kyubey.gif" height="40" />
+</div>
+
+<img src="https://raw.githubusercontent.com/Whwbmb/Whwbmb/main/assets/kyubey.gif" height="40" />
 
 <br><br>
 
