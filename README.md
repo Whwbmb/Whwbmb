@@ -6,12 +6,14 @@
 
 
 <div align="center">
+  <div markdown="1" width="45%" align="left">
+
+  ## 关于我 / about me
+  </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there!;Welcome+to+my+corner+of+GitHub." width="100%" />
 <div>
   <div markdown="1" width="45%" align="left">
-
-  ## 关于我 / about me
 
   - 网络空间安全专业(Major in CyberSecurity) 
   - 本科在读 
@@ -20,7 +22,7 @@
 
   </div>
 
-  <div width="45%" align="right">
+  <div width="50%" align="right">
   <img src="https://github.com/Whwbmb/Whwbmb/blob/main/github-metrics.svg" />
 
   </div>
