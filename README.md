@@ -23,12 +23,8 @@
 <img src="https://github.com/Whwbmb/Whwbmb/blob/main/github-metrics.svg" width="45%" align="right" />
 
 
-
-<br><br>
-
 <img src="https://raw.githubusercontent.com/Whwbmb/Whwbmb/main/assets/kyubey.gif" height="40" />
 
-<br><br>
 
 [![](https://img.shields.io/badge/bilibili-ff66ab)](https://space.bilibili.com/246548892?spm_id_from=333.1007.0.0)
 [![](https://img.shields.io/badge/nssctf-6364ff)](https://www.nssctf.cn/user/23773)
