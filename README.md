@@ -16,7 +16,8 @@
 
 - 网络空间安全专业（Major in Cybersecurity）本科在读  
 - 刚入门的 CTFer / Novice CTFer   
-- ACG 爱好者 / ACG fan  
+- ACG 爱好者 / ACG fan
+- CTF笔记：[WP与笔记](https://github.com/Whwbmb/NoteBook-CTF_WP)  
       </div>
     </td>
 
