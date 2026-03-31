@@ -44,8 +44,8 @@
 - 《网络安全》：[网络安全实验报告](https://github.com/Whwbmb/Cyber-security)
 - 《Linux系统与网络管理》：[Linux系统与网络管理实验报告](https://github.com/Whwbmb/Whwbmb-Linux-system-and-network-management)
 - 《渗透测试与安全评估》：[渗透测试与安全评估实验报告](https://github.com/Whwbmb/CUC_Penetration-testing-and-security-assessments)
-- 《物联网与工控系统安全》：[物联网与工控系统安全实验报告](https://github.com/Whwbmb/IoT-and-industrial-control-system-security)(暂时私有)
-- 《网络空间安全实践》：[网络空间安全实践项目仓库](https://github.com/Whwbmb/Comprehensive-practice-of-cyberspace-security)(暂时私有)
+- 《物联网与工控系统安全》：[物联网与工控系统安全实验报告](https://github.com/Whwbmb/IoT-and-industrial-control-system-security)
+- 《网络空间安全实践》：[网络空间安全实践项目仓库](https://github.com/Whwbmb/Comprehensive-practice-of-cyberspace-security)
 - 《移动互联网安全》：[移动互联网安全实验报告](https://github.com/Whwbmb/Mobile-Internet-Security)
 
 
